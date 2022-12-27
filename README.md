@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IonHTML
+- 👀 I’m interested in HTML and idle game development in general
+- 🌱 I’m currently learning HTML, JS, CSS
+- 💞️ I’m looking to collaborate on Frogmental
+- 📫 How to reach me - Gmail - noobdabs100@gmail.com
